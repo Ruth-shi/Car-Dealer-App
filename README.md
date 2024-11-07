@@ -2,7 +2,7 @@
 
 CarDealerApp is a web application built with Spring Boot to manage car dealership data, including information on cars, dealers, and customer interactions. This app allows users to view, add, update, and delete car records, manage dealer information, and perform CRUD operations on various entities within the dealership.
 
-Features <br>
+Features: <br>
 Manage car inventory with details like brand, model, registration number, year, price, and dealer info. <br>
 CRUD operations for cars and dealers. <br>
 RESTful APIs for accessing and managing data. <br>
